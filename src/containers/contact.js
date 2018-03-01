@@ -1,13 +1,12 @@
-
 import React from 'react'
 import '../styles.css'
 
 
 
 
-  const About = () => (
+  const Contact = () => (
   <div>
-    <h1>Phantomland</h1>
+    <h1>Contact</h1>
     <p>React, static sites, performance, speed. It's the stuff that makes us tick.</p>
     <div className="left">
 
@@ -19,4 +18,5 @@ import '../styles.css'
     </div>
   </div>
 )
-export default About
+export default Contact
+

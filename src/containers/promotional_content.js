@@ -1,11 +1,10 @@
-
 import React from 'react'
 import '../styles.css'
 
 
 
 
-  const About = () => (
+  const PromotionalContent = () => (
   <div>
     <h1>Phantomland</h1>
     <p>React, static sites, performance, speed. It's the stuff that makes us tick.</p>
@@ -19,4 +18,4 @@ import '../styles.css'
     </div>
   </div>
 )
-export default About
+export default PromotionalContent

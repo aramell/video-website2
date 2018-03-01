@@ -6,7 +6,7 @@ import logoImg from '../logo.png'
 
 export default withSiteData(() => (
   <div>
-    <h1 style={{ textAlign: 'center' }}>Welcome to</h1>
+    <h1 style={{ textAlign: 'center' }}>Welcome to PhatomLand Media</h1>
     <Video />
     <img src={logoImg} alt="" />
   </div>

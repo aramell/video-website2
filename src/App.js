@@ -25,7 +25,8 @@ const AppStyles = styled.div`
 
   nav {
     width: 100%;
-    background: #108db8;
+    background: #666699
+    ;
 
     a {
       color: white;
@@ -36,6 +37,7 @@ const AppStyles = styled.div`
 
   .content {
     padding: 1rem;
+    background: #d3d3d3;
   }
 
   img {
@@ -51,6 +53,9 @@ const App = () => (
         <Link to="/about">About</Link>
         <Link to="/wedding">Weddings</Link>
         <Link to="/realestate">Real Estate</Link>
+        <Link to="/promotional_content">Promotional Content</Link>
+        <Link to="/contact">Contact</Link>
+
       </nav>
       <div className="content">
         <Routes />
