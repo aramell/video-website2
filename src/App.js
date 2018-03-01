@@ -53,7 +53,7 @@ const App = () => (
         <Link to="/about">About</Link>
         <Link to="/wedding">Weddings</Link>
         <Link to="/realestate">Real Estate</Link>
-        <Link to="/promotional_content">Promotional Content</Link>
+        <Link to="/promotionalcontent">Promotional Content</Link>
         <Link to="/contact">Contact</Link>
 
       </nav>

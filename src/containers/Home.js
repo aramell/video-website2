@@ -1,8 +1,8 @@
+import { withSiteData } from 'react-static'
 import React from 'react'
 import Video from './video'
-import { withSiteData } from 'react-static'
 //
-import logoImg from '../logo.png'
+import logoImg from '../PhantomLandLogo2018-08.png'
 
 export default withSiteData(() => (
   <div>
